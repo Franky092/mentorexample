@@ -1,6 +1,6 @@
 import time
 
-from Pages.BmwPage import QuizHelper
+from Pages.main_page import QuizHelper
 import allure
 
 def test_bmw_quiz(browser):
